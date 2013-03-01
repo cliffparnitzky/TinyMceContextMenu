@@ -1,5 +1,5 @@
-Contao TinyMceContextMenu Extension
-===================================
+Contao Extension: TinyMceContextMenu
+====================================
 
 Special TinyMCE plugin to add a context menu to the editor.
 
@@ -23,7 +23,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.9.5
-- max. version: Contao 2.11.6
+- max. version: Contao 2.11.x
 
 
 Dependency
