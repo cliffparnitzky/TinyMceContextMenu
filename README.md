@@ -1,9 +1,15 @@
+[![Latest Version on Packagist](http://img.shields.io/packagist/v/cliffparnitzky/tiny-mce-context-menu.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-context-menu)
+[![Installations via composer per month](http://img.shields.io/packagist/dm/cliffparnitzky/tiny-mce-context-menu.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-context-menu)
+[![Installations via composer total](http://img.shields.io/packagist/dt/cliffparnitzky/tiny-mce-context-menu.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-context-menu)
+
 Contao Extension: TinyMceContextMenu
 ====================================
 
 Special TinyMCE plugin to add a context menu to the editor.
 
 The sources of this plugin could be found [here](http://www.tinymce.com/wiki.php/Plugin:contextmenu).
+
+Now for TinyMCE 4.
 
 
 Installation
@@ -22,10 +28,8 @@ https://github.com/cliffparnitzky/TinyMceContextMenu/issues
 Compatibility
 -------------
 
-- min. version: Contao 3.0.x
-- max. version: Contao 3.2.x
-
-(For Contao 2 look at the [master_c2 Branch](https://github.com/cliffparnitzky/TinyMceContextMenu/tree/master_c2))
+- min. version: Contao 3.3.0
+- max. version: Contao 3.3.x
 
 
 Dependency

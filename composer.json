@@ -1,7 +1,7 @@
 {
 	"name":"cliffparnitzky/tiny-mce-context-menu",
 	"description":"Special TinyMCE plugin to add a context menu to the editor.",
-	"keywords":["contao","tinymce","tiny editor","tinymce plugin","context menu"],
+	"keywords":["contao","tinymce","tiny editor","tinymce plugin","context menu","tinymce4"],
 	"type":"contao-module",
 	"license":"LGPL-3.0+",
 	"authors":[
@@ -18,19 +18,19 @@
 	},
 	"require":{
 		"php":">=5.3",
-		"contao/core":">=2.9.5,<3.3.0",
+		"contao/core":">=3.3.0,<4.0.0-dev",
 		"contao-community-alliance/composer-installer":"*",
-		"cliffparnitzky/tiny-mce-plugin-loader":">=1.0.0,<2.0.x-dev"
+		"cliffparnitzky/tiny-mce-plugin-loader":">=2.0.0"
 	},
 	"extra":{
 		"contao":{
 			"sources":{
-				"assets/tinymce/plugins/contextmenu":"assets/tinymce/plugins/contextmenu",
+				"assets/tinymce4/plugins/contextmenu":"assets/tinymce4/plugins/contextmenu",
 				"system/modules/TinyMceContextMenu":"system/modules/TinyMceContextMenu"
 			}
 		},
 		"branch-alias": {
-			"dev-master": "1.0.x-dev"
+			"dev-tinymce4": "2.0.x-dev"
 		}
 	}
 }
