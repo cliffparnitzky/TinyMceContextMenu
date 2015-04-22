@@ -42,4 +42,4 @@ Dependency
 Screenshot
 ----------
 
-![Screenshot](https://raw.github.com/cliffparnitzky/TinyMceContextMenu/tinymce4/screenshot.jpg)
+![Screenshot](screenshot.jpg)
