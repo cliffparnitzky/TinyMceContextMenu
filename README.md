@@ -15,8 +15,9 @@ Now for TinyMCE 4.
 Installation
 ------------
 
-The extension is not published in contao extension repository.
-Install it manually or via [composer](https://packagist.org/packages/cliffparnitzky/tiny-mce-context-menu).
+Install the extension via composer: [cliffparnitzky/tiny-mce-context-menu](https://packagist.org/packages/cliffparnitzky/tiny-mce-context-menu).
+
+If you prefer to install it manually, download the latest release here: https://github.com/cliffparnitzky/TinyMceContextMenu/releases
 
 
 Tracker
@@ -28,8 +29,8 @@ https://github.com/cliffparnitzky/TinyMceContextMenu/issues
 Compatibility
 -------------
 
-- min. version: Contao 3.3.0
-- max. version: Contao 3.3.x
+- min. Contao version: >= 3.3.0
+- max. Contao version: <  3.5.0
 
 
 Dependency
